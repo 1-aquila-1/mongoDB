@@ -10,6 +10,11 @@ db.autores.insertMany([
         descricao: "Escritor do blog da Alura",
         email: "felipe@alura.com.br",
         senha: "senha"
+    },
+    {
+        nome: "Gabriel Ferreira",
+        descricao: "Desenvolvedor, instrutor e criador de conteúdo na Alura e grupo Caelum.",
+        email: "gabs@caelum.com.br",
+        senha: "gabs1234"
     }
 ])
-
